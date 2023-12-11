@@ -87,6 +87,11 @@ img{
     padding: 50px 25px;
     margin-right: 20px;
 }
+
+
+.card-body:last-child{
+    margin-right: 0px;
+}
 #card-one{
     border-radius: 5px;
     background: rgba(79, 157, 166, 0.10);
@@ -100,6 +105,7 @@ img{
 #card-three{
     border-radius: 5px;
     background: #FFF4D6;
+   
 }
 
 
